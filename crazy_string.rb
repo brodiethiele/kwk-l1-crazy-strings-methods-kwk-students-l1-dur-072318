@@ -1,8 +1,5 @@
 # write your method here
 
 def crazy_strings(a,b)
-a= "Hello"
-b= "Friends"
-puts a.upcase.reverse
-puts b.swapcase
+puts "#{a}".upcase.reverse "#{b}".swapcase.gsub (s,z)
 end
